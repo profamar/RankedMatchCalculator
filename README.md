@@ -1,4 +1,4 @@
-# Projeto: Calculadora de Partidas Rankeadas
+# Calculadora de Partidas Rankeadas [Python]
 
 Este projeto, desenvolvido como parte do curso "GFT Start #6 - Lógica de Programação" oferecido pela DIO, consiste no desafio de criar uma calculadora de partidas ranqueadas. 
 
