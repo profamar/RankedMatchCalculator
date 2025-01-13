@@ -24,6 +24,28 @@ Utilize estruturas de decisão para classificar o jogador em diferentes níveis 
 - **Entre 91 e 100 vitórias:** Lendário
 - **Mais de 101 vitórias:** Imortal
 
+ 
+## Como Executar
+1.Clone o repositório:
+git clone https://github.com/profamar/RankedMatchCalculator.git
+
+2.Navegue até o diretório do projeto:
+cd RankedMatchCalculator/src
+
+3.Execute o script principal:
+python main.py
+
+4.Insira o número de vitórias e derrotas quando solicitado.
+
+Contribuição
+Sinta-se à vontade para contribuir com o projeto. Para isso, siga os passos abaixo:
+
+Faça um fork do repositório.
+Crie uma nova branch.
+
+##  Licença
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
 ## Exemplo de Código
 
 Aqui está um exemplo de como essa classificação pode ser implementada em Python:
