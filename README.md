@@ -44,3 +44,6 @@ def classificar_jogador(vitorias):
         return "Lendário"
     else:
         return "Imortal"
+'
+'
+'
