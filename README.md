@@ -1,6 +1,6 @@
 # Projeto: Calculadora de Partidas Rankeadas
 
-Este projeto, desenvolvido como parte do curso "GFT Start #6 - Lógica de Programação" oferecido pela DIO, consiste no desafio de criar uma calculadora de partidas ranqueadas. O objetivo é desenvolver uma função que classifique os jogadores em diferentes níveis com base no número de vitórias e calcule o saldo de vitórias e derrotas, aplicando conceitos fundamentais de programação aprendidos ao longo do curso.
+Este projeto, desenvolvido como parte do curso "GFT Start #6 - Lógica de Programação" oferecido pela DIO, consiste no desafio de criar uma calculadora de partidas ranqueadas. 
 
 ## Objetivo do Projeto
 Criar uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador. Depois, retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do cálculo: vitórias - derrotas, aplicando conceitos fundamentais de programação aprendidos ao longo do curso.
