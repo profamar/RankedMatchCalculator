@@ -123,3 +123,7 @@ if __name__ == "__main__":
 ## 📜 Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para mais informações.
+
+---
+
+📧 Contato Para dúvidas ou sugestões, entre em contato pelo LinkedIn: Márcia Soares
