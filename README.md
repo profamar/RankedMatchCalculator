@@ -126,4 +126,4 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` p
 
 ---
 
-📧 Contato Para dúvidas ou sugestões, entre em contato pelo LinkedIn: Márcia Soares
+Para dúvidas ou sugestões, entre em contato pelo LinkedIn: [Márcia Soares](https://www.linkedin.com/in/márcia-soares-236974256)
